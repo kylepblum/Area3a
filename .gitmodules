@@ -4,3 +4,6 @@
 [submodule "lib/ClassyDataAnalysis"]
 	path = lib/ClassyDataAnalysis
 	url = https://github.com/limblab/ClassyDataAnalysis.git
+[submodule "lib/MechanisticSpindleManuscript"]
+	path = lib/MechanisticSpindleManuscript
+	url = https://github.com/kylepblum/MechanisticSpindleManuscript.git
